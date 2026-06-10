@@ -1,0 +1,62 @@
+[
+    {
+        "name": "الوفيرا",
+        "last_watered": "2026-04-01",
+        "fertilized": "2026-06-11",
+        "watering_interval": 15
+    },
+    {
+        "name": "نعناع",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "نعناع2",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "فل1",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "فل2",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "فل3",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "عطرشية1",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "عطرشية2",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "شب الليل",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    },
+    {
+        "name": "ياسمين افريقي",
+        "last_watered": "2026-06-11",
+        "fertilized": "2026-06-11",
+        "watering_interval": 3
+    }
+]
