@@ -22,7 +22,7 @@ A desktop application built with Python to help users manage plant watering and 
 ## How to Run
 
 ```bash
-python Main.py
+ Main.py
 ```
 
 ## Author
