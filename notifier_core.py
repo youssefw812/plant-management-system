@@ -11,12 +11,8 @@ def load_plants():
     except FileNotFoundError:
         plants = []
 
-BOT_TOKEN = "" \
-"8869544809:AAFHcsQkDMCtjj8z90hXoa2_WSIuR8a3qbs"
-CHAT_IDS=[
-          1089163396   #Youssef Wael
-          ,415424260 # Wael Naeem
-          ] 
+BOT_TOKEN = "#add your Bot Token"
+CHAT_IDS=# add your ID From telegram
 
 def send_telegram_message(message):
     for chat_id in CHAT_IDS:
